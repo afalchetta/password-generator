@@ -1,0 +1,25 @@
+*{
+  margin:0;
+  padding:0;
+}
+.mainwrap{
+  top:0;
+  left:0;
+  height:100vh;
+  background-color:#333;
+  color:#fff;
+  display:flex;
+  justify-content:center;
+  align-items: center;
+  text-align: center;
+  flex-direction:column;
+}
+
+.main{
+  font-size:4em;
+  font-weight:600;
+}
+input{
+  margin:auto;
+  text-align: center;
+}
